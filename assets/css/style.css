@@ -1,1 +1,14 @@
 
+/* body {
+  background-image: url("../images/stewie.jpg");
+  background-size: cover;
+} */
+
+.questions{
+  text-align: center;
+}
+
+.answers {
+  text-align:    center;
+  display: inline;
+}
